@@ -1,0 +1,48 @@
+.fruits{
+    border: 2px solid blue;
+    background-color: chartreuse;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: red;
+}
+
+.cars{
+    background-color: red ;
+    border: black solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: #c70edc;
+
+}
+
+.comp{
+    background-color: #b51bc0 ;
+    border: black solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #d7c0c0;
+}
+
+.laptop{
+    border: 2px solid;
+}
+
+.desktop{
+    border: 2px dotted;
+}
+
+#house{
+   background-color: #b51bc0;
+    border: #1b3fc4 solid 2px;
+    margin:20px;
+    padding: 20px;
+    text-align: center;
+    color: #d7c0c0;
+}
+/*body{*/
+/*    background-image: url("/assets/images/redcar.jpg") ;*/
+
+/*}*/
